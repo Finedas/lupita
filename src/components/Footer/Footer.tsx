@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <span className={styles.mark}>lupita</span>
-        AI con lupa, no con humo.
+        AI con lupa, construida con vos.
         <br />
         Montevideo · Uruguay · <a href="mailto:hola@lupita.uy">hola@lupita.uy</a>
         <br />
