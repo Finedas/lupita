@@ -10,7 +10,7 @@ export default function Hero() {
           <h1 className={styles.tagline}>
             AI con lupa,
             <br />
-            <em>no con humo.</em>
+            <em>construida junto a vos.</em>
           </h1>
           <p className={styles.lede}>
             Consultoría e implementación de <strong>IA aplicada</strong> para PyMEs uruguayas. No
