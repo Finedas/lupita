@@ -1,0 +1,21 @@
+:root {
+  --forest: #1F3A2E;
+  --forest-deep: #142822;
+  --gold: #B89466;
+  --gold-soft: #D4B891;
+  --cream: #F2EAD3;
+  --cream-dark: #E5DCC2;
+  --paper: #F8F2DE;
+  --ink: #1F1F1F;
+  --ink-soft: #4A4540;
+  --terracota: #C75D3D;
+  --terracota-deep: #A84A2E;
+  --line: rgba(31, 31, 31, 0.12);
+  --line-soft: rgba(31, 31, 31, 0.06);
+
+  --font-display: 'Fraunces', 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --container: 1100px;
+  --appbar-h: 72px;
+}
